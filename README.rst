@@ -80,7 +80,7 @@ Installation
 
 You can also install the in-development version with::
 
-    pip install https://github.com/CenterForTheBuiltEnvironment/pythermalcomfort/archive/master.zip
+    pip install https://github.com/maartendonkersloot/pythermalcomfort/archive/master.zip
 
 
 Documentation
